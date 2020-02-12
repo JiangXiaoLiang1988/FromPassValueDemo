@@ -1,0 +1,10 @@
+F:\Project\Delegate\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+F:\Project\Delegate\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+F:\Project\Delegate\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+F:\Project\Delegate\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.frmChild.resources
+F:\Project\Delegate\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.frmParent.resources
+F:\Project\Delegate\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.Properties.Resources.resources
+F:\Project\Delegate\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.GenerateResource.cache
+F:\Project\Delegate\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+F:\Project\Delegate\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+F:\Project\Delegate\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb
